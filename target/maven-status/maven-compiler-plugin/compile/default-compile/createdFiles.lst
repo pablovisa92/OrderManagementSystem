@@ -1,1 +1,7 @@
-org\example\Main.class
+Main.class
+model\Client.class
+utils\DataBaseConnection.class
+model\Product.class
+model\OrderStatus.class
+constructor\ProductController.class
+model\Order.class
